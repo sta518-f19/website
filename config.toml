@@ -1,0 +1,50 @@
+baseURL = "/"
+title = "STA 418-518"
+copyright = ""
+theme = "hugo-theme-learn"
+enableEmoji = true
+footnotereturnlinkcontents = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+relativeurls = true
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# Languages
+[languages.en]
+  languageCode = "en-us"
+
+# Outputs
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
+  section = [ "HTML", "RSS" ]
+  taxonomy = [ "HTML", "RSS" ]
+  taxonomyTerm = [ "HTML", "RSS" ]
+
+[blackfriday]
+  hrefTargetBlank = true
+  
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
+  
+  editURL = ""
+  description = ""
+
+[menu]
+
+  [[menu.shortcuts]]
+    name = "<i class='fas fa-angle-right'></i> RStudio"
+    url = "https://rstudio.cloud/"
+    weight = 10
+
+  [[menu.shortcuts]]
+    name = "<i class='fab fa-github'></i> GitHub"
+    url = "https://github.com/"
+    weight = 11
+    
+  [[menu.shortcuts]]
+    name = "<i class='fas fa-exclamation-circle'></i> Help"
+    url = "https://github.com/f19-sta-418-518/help-center"
+    weight = 12

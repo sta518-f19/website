@@ -45,6 +45,6 @@ defaultContentLanguageInSubdir = false
     weight = 11
     
   [[menu.shortcuts]]
-    name = "<i class='fas fa-exclamation-circle'></i> Help"
-    url = "https://github.com/f19-sta-418-518/help-center"
+    name = "<i class='fas fa-exclamation-circle'></i> Discussion"
+    url = "https://github.com/sta518/discussion"
     weight = 12

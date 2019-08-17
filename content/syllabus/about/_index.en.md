@@ -27,7 +27,7 @@ The text is freely available online:
 -----------|---------------------------------|----------------------------------
 [R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | O'Reilly, 1st edition, 2016
 
-I will provide links to additional text that you may find useful as we cover the corresponding topic
+I will also provide links to [additional resources](/resources) that you may find useful as we cover the corresponding topic.
 
 ### Learning Objectives
 

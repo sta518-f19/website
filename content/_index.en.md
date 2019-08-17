@@ -15,7 +15,8 @@ An introduction to statistical programming and graphics using the object-oriente
 
 Students will ...
 
-- Explore and wrangle data (including large, non-rectangular data) for analysis
+- Prepare data for analysis
+- Explore data (including large, non-rectangular data)
 - Write functions and programs to perform various statistical analyses
 - Create sophisticated graphical and tabular summarizations of data
 - Present results of a complete data project showcasing technical writing skills

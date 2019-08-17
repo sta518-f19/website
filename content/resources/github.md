@@ -4,4 +4,4 @@ title: GitHub
 weight: 10
 ---
 
-[Happy Git with R](https://happygitwithr.com) by [Jenny Bryan](https://jennybryan.org/)
+[Happy Git with R](https://happygitwithr.com) by Jenny Bryan

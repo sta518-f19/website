@@ -2,11 +2,15 @@
 title: Policies
 weight: 15
 ---
+<!-- 
+[help-center](https://github.com/sta518/discussion)
 
-[help-center](https://github.com/f19-sta-418-518/help-center)
+(https://classroom.github.com/classrooms/52968993-sta-418-518-classroom)
 
-
-(https://classroom.github.com/classrooms/52968958-f19-sta-418-518-classroom)
+For connecting to LMS - LATER
+(https://github.blog/2019-08-13-use-github-classroom-with-your-own-tools/)
+(https://classroom.github.com/help/setup-generic-lms)
+--> 
 
 ### Course Policies
 

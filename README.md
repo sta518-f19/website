@@ -15,4 +15,4 @@ Materials that were helpful in building this site were
 - [Amber Thomas'](https://amber.rbind.io/2016/12/19/website/) tutorial
 - [Jente Hidskes'](https://www.hjdskes.nl/blog/update-deploying-hugo-on-personal-gh-pages/) and [Hugo's](https://gohugo.io/hosting-and-deployment/hosting-on-github/#deployment-via-gh-pages-branch) scripts for hosting on GitHub
 
-[Robert Talbert's](https://rtalbert.org/) materials on mastery and specification grading were extrememly helpful in developing my syllabus.
+[Robert Talbert's](https://rtalbert.org/) materials on mastery and specification grading were extrememly helpful in developing my syllabus as I transition to specification grading.

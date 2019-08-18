@@ -1,7 +1,7 @@
 ---
 disableToc: true
 title: Course Information
-weight: 10
+weight: 5
 ---
 
 ### Meetings

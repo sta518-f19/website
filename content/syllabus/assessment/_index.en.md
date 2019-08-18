@@ -1,6 +1,6 @@
 ---
 title: Assessment
-weight: 25
+weight: 10
 ---
 
 ### Assignments and Grading Standards

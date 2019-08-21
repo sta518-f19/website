@@ -15,7 +15,7 @@ Section 01     | Section 02
 
 Instructor     | Contact          | Office Hours    | Office      
 ------------------|-------------------|------------------|------------------
-[Bradford Dykes](https://dykesb.github.io) | <a href="mailto:dykesb@gvsu.edu" title="email"><i class="fas fa-envelope-square"></i></a> &nbsp; <a href="https://github.com/dykesb" title="GitHub"><i class="fab fa-github-square"></i></a> | Mon and Tue 10:00 - 11:30 am | MAK A-1-152
+[Bradford Dykes](https://dykesb.github.io) | <a href="mailto:dykesb@gvsu.edu" title="email"><i class="fas fa-envelope-square"></i></a> &nbsp; <a href="https://github.com/dykesb" title="GitHub"><i class="fab fa-github-square"></i></a> | Mon and Wed 2 - 3 pm; Tues 10 - 11 am | MAK A-1-152
 
 <!-- &nbsp; <a href="https://twitter.com/bradforddykes" title="Twitter"><i class="fab fa-twitter-square"></i></a> --> 
 

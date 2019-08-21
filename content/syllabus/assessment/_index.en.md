@@ -3,7 +3,7 @@ title: Assessment
 weight: 10
 ---
 
-### Assignments and Grading Standards
+### Assignments
 
 We use a **mastery grading** system in STA 418\\518, where your course grade is determined by a collection of work that you will accumulate throughout the semester demonstrating your mastery of the course concepts.
 Your work will be evaluated on whether or not it meets acceptable standards of quality.
@@ -14,37 +14,19 @@ It sometimes takes multiple attempts and new concepts to help previous material 
 This is probably a different and more complicated process than you are used to.
 However, this is to provide you with more control over you grade and less stress.
 
-#### Meeting Preparation
-
-To be completed prior to class either individually or with your team.
-These will introduce you to new material and have you do some initial learning so we can spend class time focusing on the more difficult concepts.
-
-Meeting Preparation assignments are graded either **Satisfactory** (S) or **Unsatisfactory** (U) on the basis of completeness, effort, and timeliness.
-
-| Mark      | Description      |
-| --------- |:------ |
-| **S**     | Every item has a good-faith effort to complete it and the work is submitted before the deadline. |
-| **U**     | No work submitted; or work is submitted late, not complete, or at least one submission that is not a serious attempt. |
-
-**Note**: Meeting Preparation does not need to be actually correct; mistakes are welcome as long as they are made honestly.
-
 #### Individual Portfolio
 
 Throughout the course you will supply evidence of your individual learning.
 
+##### Meeting Preparation
+
+To be completed prior to class.
+These can be done either individually or with your team and will introduce you to new material and have you do some initial learning so we can spend class time focusing on the more difficult concepts.
+
 ##### Application Tasks
 
 These tasks will have you apply the concepts to a larger data analysis task beyond what is covered in class during the activity labs.
-
 Application Tasks emphasize critical analysis and writing skills.
-These tasks are evaluated not only on completeness and correctness, but also on sytle and efficiency and earn an overall grade of **Excellent** (E), **Satisfactory** (S), **Progressing** (P), or **Incomplete** (I).
-
-| Mark      | Description      |
-| --------- |:------ |
-| **E**     | Exceeded the requirements in a number of dimensions.  Impressive use of the course tools - maybe involving functions, packages, or workflows that were not done in class materials.  Impeccable organization of repo and report. |
-| **S**     | The work is complete and demonstrates correct methods discussed in class.  There may be a few isolated errors in writing, program, or other aspects of the task that do not affect the overall report.  Task is eash to read.  |
-| **P**     | One or more elements are missing or incomplete.  Missed opportunites to complement code and numbers with a figure and interpretation.  Some techinical problems that are relatively easy to fix.  Difficult to find report. |
-| **I**     | Many substantial gaps, ommisions, or errors; or, incomplete, incorrect, or difficult to read; or, report requires more than just a simple revision ;or, did not attempt.   |
 
 ##### Midterm Projects
 
@@ -70,6 +52,39 @@ All team members are expected to contribute equally on these labs.
 You are expected to make use of git and GitHub as your central collaborative platform.
 Commits to these will be used as a metric of each team member's relative contribution for each lab.
 
+##### Team Project
+
+You and your team members will be responsible for the completion of an open ended final course project.
+The goal is to engage in a meaningful problem showcasing the tools and techniques you've developed throughout the course.
+Each team's work will be shared with and evaluated by at least one other team at an earlier stage to provide feedback and/or suggestions.
+Additional details will be provided as the semester progresses.
+
+### Grading Standards
+
+#### Meeting Preparation
+
+Meeting Preparation assignments are graded either **Satisfactory** (S) or **Unsatisfactory** (U) on the basis of completeness, effort, and timeliness.
+
+| Mark      | Description      |
+| --------- |:------ |
+| **S**     | Every item has a good-faith effort to complete it and the work is submitted before the deadline. |
+| **U**     | No work submitted; or work is submitted late, not complete, or at least one submission that is not a serious attempt. |
+
+**Note**: Meeting Preparation does not need to be actually correct; mistakes are welcome as long as they are made honestly.
+
+##### Application Tasks
+
+These tasks are evaluated not only on completeness and correctness, but also on sytle and efficiency and earn an overall grade of **Excellent** (E), **Satisfactory** (S), **Progressing** (P), or **Incomplete** (I).
+
+| Mark      | Description      |
+| --------- |:------ |
+| **E**     | Exceeded the requirements in a number of dimensions.  Impressive use of the course tools - maybe involving functions, packages, or workflows that were not done in class materials.  Impeccable organization of repo and report. |
+| **S**     | The work is complete and demonstrates correct methods discussed in class.  There may be a few isolated errors in writing, program, or other aspects of the task that do not affect the overall report.  Task is eash to read.  |
+| **P**     | One or more elements are missing or incomplete.  Missed opportunites to complement code and numbers with a figure and interpretation.  Some techinical problems that are relatively easy to fix.  Difficult to find report. |
+| **I**     | Many substantial gaps, ommisions, or errors; or, incomplete, incorrect, or difficult to read; or, report requires more than just a simple revision ;or, did not attempt.   |
+
+##### Acitivity Labs
+
 Activity Labs assignments are graded either **Satisfactory** (S) or **Progressing** (P) on the basis of completeness, effort, and timeliness.
 
 | Mark      | Description      |
@@ -80,15 +95,7 @@ Activity Labs assignments are graded either **Satisfactory** (S) or **Progressin
 It is possible that an individual's grade differs from the teams grade.
 This could be due to a class absence or lacking evidence of that individual's participation.
 
-##### Team Project
-
-You and your team members will be responsible for the completion of an open ended final course project.
-The goal is to engage in a meaningful problem showcasing the tools and techniques you've developed throughout the course.
-Each team's work will be shared with and evaluated by at least one other team at an earlier stage to provide feedback and/or suggestions.
-Additional details will be provided as the semester progresses.
-Midterm Projects and the Team Project will be assessed using similar [rubrics](/syllabus/grading/#midterm-and-team-projects-grade-standards).
-
-##### Midterm and Team Projects Grade Standards
+##### Midterm and Team Projects
 
 These larger projects will be graded on a evaluation of collective criteria.
 Each project will specify which criterion are being assessed and you will earn a grade of **Excellent** (E), **Satisfactory** (S), **Progressing** (P), or **Incomplete** (I).
@@ -108,6 +115,33 @@ These are generally earned as follows, but specific guidelines will be provided 
 - **E**:  Each criterion earned an Excellent or a Satisfactory grade, including at least 50% of criteria earning Excellent.
 - **S**: Each criterion earned an Excellent or a Satisfactory grade, including at least 25% of criteria earning Excellent.
 - **P**: Earned at least one Progressing or Incomplete on a criterion.
+
+#### How your course grade is determined
+
+Your course grade is determined using two steps.
+First, your **base grade** is determined using the requirements listed for each base grade below:
+
+| To Earn | Do all of the following |
+| ------- | ----------------------- |
+| A       | - Earn "Satisfactory" on **at least 90%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **both** Midterm Projects; earning at least one "Excellent" <br> - Earn "Satisfactory" on **at least 90%** of Activity Labs <br> - Earn "Excellent" on the Team Project |
+| B       | - Earn "Satisfactory" on **at least 80%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **both** Midterm Projects <br> - Earn "Satisfactory" on **at least 80%** of Activity Labs <br> - Earn "Satisfactory" on the Team Project |
+| C       | - Earn "Satisfactory" on **at least 70%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **both** Midterm Projects <br> - Earn "Satisfactory" on **at least 70%** of Activity Labs <br> - Earn "Progressing" on the Team Project |
+| D       | - Earn "Satisfactory" on **at least 50%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **at least one** Midterm Project <br> - Earn "Satisfactory" on **at least 50%** of Activity Labs |
+| F       | Given if *all* of the requirements for a "D" are not met |
+
+<!-- **Note**: These values are based on XX Application Tasks and XX Activity Labs.
+If either of these counts change, the table above will be updated appropriately. -->
+
+Once your base grade has been determined, a plus/minus distinction will be made using the following:
+
+|                              |                         |
+| ---------------------------- | ----------------------- |
+| **plus** (+)       | You completed **at least 80%** Meeting Preparations and did one of the following: <br> + You earned an "Excellent" on at least on Midterm Project; or <br> + You completed the Application Tasks requirements for the next higher grade; or <br> + Team Project requirements for the next higher grade. |
+| **minus** (-)      | - You completed **fewer than 50%** Meeting Preparations; or <br> - (For A grades only) You complete all the requirements for a base grade of “A” except the “Excellent” requirement for Midterm Projects. |
+
+If neither of these rules apply to you, then your course grade is simply the base grade you earned.
+
+**Note**:  I cannot award an "A+" or a "D-" since these grades do not exist at GVSU.
 
 ### Revision and Reassessment
 
@@ -150,30 +184,3 @@ Individuals are only allowed **one** resubmission.
 #### Team Project
 
 No revisions are allowed for the Team Project.
-
-### How your course grade is determined
-
-Your course grade is determined using two steps.
-First, your **base grade** is determined using the requirements listed for each base grade below:
-
-| To Earn | Do all of the following |
-| ------- | ----------------------- |
-| A       | - Earn "Satisfactory" on **at least 90%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **both** Midterm Projects; earning at least one "Excellent" <br> - Earn "Satisfactory" on **at least 90%** of Activity Labs <br> - Earn "Excellent" on the Team Project |
-| B       | - Earn "Satisfactory" on **at least 80%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **both** Midterm Projects <br> - Earn "Satisfactory" on **at least 80%** of Activity Labs <br> - Earn "Satisfactory" on the Team Project |
-| C       | - Earn "Satisfactory" on **at least 70%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **both** Midterm Projects <br> - Earn "Satisfactory" on **at least 70%** of Activity Labs <br> - Earn "Progressing" on the Team Project |
-| D       | - Earn "Satisfactory" on **at least 50%** of Application Tasks <br> - Earn "Satisfactory" or "Excellent" on **at least one** Midterm Project <br> - Earn "Satisfactory" on **at least 50%** of Activity Labs |
-| F       | Given if *all* of the requirements for a "D" are not met |
-
-<!-- **Note**: These values are based on XX Application Tasks and XX Activity Labs.
-If either of these counts change, the table above will be updated appropriately. -->
-
-Once your base grade has been determined, a plus/minus distinction will be made using the following:
-
-|                              |                         |
-| ---------------------------- | ----------------------- |
-| **plus** (+)       | You completed **at least XX** Meeting Preparations and did one of the following: <br> + You earned an "Excellent" on at least on Midterm Project; or <br> + You completed the Application Tasks requirements for the next higher grade; or <br> + Team Project requirements for the next higher grade. |
-| **minus** (-)      | - You completed **fewer than XX** Meeting Preparations; or <br> - (For A grades only) You complete all the requirements for a base grade of “A” except the “Excellent” requirement for Midterm Projects. |
-
-If neither of these rules apply to you, then your course grade is simply the base grade you earned.
-
-**Note**:  I cannot award an "A+" or a "D-" since these grades do not exist at GVSU.

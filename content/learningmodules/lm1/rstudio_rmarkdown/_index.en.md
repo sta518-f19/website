@@ -5,6 +5,7 @@ weight: 10
 pre: "<b>1.2. </b>"
 ---
 
+<!--
 ### Goals
 
 - What are repos, issues, and version-control?
@@ -15,3 +16,5 @@ pre: "<b>1.2. </b>"
 
 1. Go to [RStudio cloud](https://rstudio.cloud) and sign in with your GitHub credentials (Point to class specific RStudio.cloud sessions)
   - This is also linked on the left-hand toolbar of this site (<i class='fas angle-right'></i> RStudio)
+  
+-->

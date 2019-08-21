@@ -5,6 +5,13 @@ chapter: true
 weight: 5
 ---
 
+<!--
+
+3. Navigate to the [discussion](https://github.com/sta518/discussion) repository.
+  - Click "<i class="fas fa-eye"></i> Watch <i class="fas fa-caret-down"></i>" near the upper-right corner of the repo, so that you get email notifications.
+    - You should bookmark this page, but it is also linked on the left-hand toolbar of the course website (<i class='fas fa-exclamation-circle'></i> Help)
+    - Re-read the [How to get help](/syllabus/policies/#how-to-get-help) section in the course policies
+
 ### Acitivity 1.1: Git-ing started 
 
 ![Bad pun dog](https://i.kym-cdn.com/entries/icons/original/000/014/959/Screenshot_116.png "Final image of 'pad pun dog' meme")
@@ -23,9 +30,9 @@ The big questions for this activity are:
 
 To Do:
 
-- [ ] fork a repo
-- [ ] write markdown text
-- [ ] create a repo
+- fork a repo
+- write markdown text
+- create a repo
 
 branching and merging repos
 
@@ -85,3 +92,5 @@ Put in information
  - Showcase markdown basics
 Add and commit changes
 push back to github
+
+-->

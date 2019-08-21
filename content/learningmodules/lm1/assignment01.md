@@ -4,7 +4,7 @@ chapter: true
 weight: 20
 pre: "<i class='fas fa-star'></i> &nbsp;"
 ---
-
+<!--
 ## Assignment 1: The workflow
 
 Due by 11:59 pm Sunday, Sept. 8th.
@@ -71,3 +71,5 @@ You will submit your reflection here that minimally includes:
     - Did you pull, edit locally, save, commit, push to github.com?
 - How did working on the R Markdown document go?
 - Reflect on what was hard/easy, problems you came across and how you solved them (helpful tutorials you read, etc.)
+
+-->

@@ -23,3 +23,5 @@ weight: 15
 ### Additional Resources
 
 [featured bookdown publications](https://bookdown.org/)
+
+["solutions" for R4DS](https://jrnold.github.io/r4ds-exercise-solutions/) by Jeffrey Arnold

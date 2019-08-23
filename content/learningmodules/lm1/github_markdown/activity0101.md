@@ -237,6 +237,14 @@ Part 2:
 Merge conflicts will more than likely come up as you work in your teams throughout the semester.
 To resolve them, you (the repo owner) just needs to decide which is the correct version
 
+## Reflection
+
+As a team, discuss your responses to these questions.
+
+> What is version control and why do we care?
+> What is git vs GitHub and do I need to care?
+> What is still muddy?
+
 ## Up Next
 
 ### R and RStudio
@@ -244,7 +252,7 @@ In the next activity we will begin collaborating with GitHub (forking and pull r
 
 ### Markdown
 The `*.md` files that we've seen are markdown documents.
-There are many [Additional Resources](https://sta518.github.io/resources/markdown/) linked on the course site and a great 10 minute tutorial that touches the basics from [CommonMark](https://commonmark.org/help/tutorial/).
+There are many [Additional Resources](https://sta518.github.io/resources/markdown/) linked on the course site and a great 10 minute tutorial that touches the basics from [CommonMark](https://commonmark.org/help/tutorial/) (this is part of your **Meeting Preparation** for the next activity).
 
 ## Optional
 

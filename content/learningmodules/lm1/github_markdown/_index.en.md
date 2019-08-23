@@ -4,16 +4,14 @@ chapter: true
 weight: 5
 pre: "<b>1.1. </b>"
 ---
-### Prior to class
 
-After doing these tasks, students are expected to be able to:
+After doing these tasks, students should be able to:
 
 - List the ways to get help in this course
 - Explain the difference between git and GitHub
 - Describe the basic useage of git and GitHub
 
-#### Tasks
-
+#### Meeting Preparation
 
 **Time**: &asymp; 60 mins
 
@@ -23,7 +21,6 @@ After doing these tasks, students are expected to be able to:
   - Be sure to update your GitHub profile
 3. Read Sections 1-7 of Jenny Bryan's [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
 Watch Brian Yu's [Introduction to Git and GitHub](https://www.youtube.com/watch?v=MJUJ4wbFm_A) seminar - Haru zen's comment on the video outlines the seminar
-
 
 **Optional** Register for the (free!) [Student Developer Pack](https://education.github.com/pack) with GitHub
 

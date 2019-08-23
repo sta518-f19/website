@@ -15,7 +15,7 @@ After completing these readings, students should be able to:
 
 In class we will apply these workflow strategies to an R markdown analysis that introduces Exploratory Data Analysis!
 
-## Meeting Preparation
+#### Meeting Preparation
 
 **Time**: 60-75 mins
 

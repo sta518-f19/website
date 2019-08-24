@@ -1,7 +1,6 @@
 ---
 title: Activity 1.1
 pre: "<i class='fas fa-tools'></i> &nbsp;"
-chapter: true
 weight: 5
 ---
 
@@ -109,10 +108,17 @@ Requirements:
 Goals:
 
 - Navigate and visualize the commit history of various repositories on GitHub
-- Demonstrate using the typical git workflow
+- Demonstrate using the typical Git workflow
 - Merge repository branches via pull requests on GitHub, resolving conflicts if necessary
 
-## To start things off
+## Introduction
+
+This activity is designed to introduce you to Git and GitHub, which we will be using during this semeseter for file management, version control, and a collaboration tool!
+Before we get into collaborating with GitHub, we need to understand some of the basics.
+That is, many of the tasks in this activity are done individually, but talk with your team members and help each other out!
+You are also provided some discussion and reflection prompts throughout to talk about as a team.
+
+## Getting Started
 
 1. Navigate to the [discussion](https://github.com/sta518/discussion) repository.
 2. Click "<i class="fas fa-eye"></i> Watch <i class="fas fa-caret-down"></i>" near the upper-right corner of the repo, so that you get email notifications.
@@ -144,7 +150,7 @@ Most of you have had experiences, some positive and some negative, with group wo
   Identify at least three (3) and no more than five (5) traits that an ideal team member would have.
 > When you have your pros and cons and traits, have a member write them in the corresponding "column" on the white board.
 
-### Version Control with git
+### Version Control with Git
 
 The statistical programming language that we will use is R.
 We will interface with R using the software RStudio - these are the focus of every activity *after* this first one.
@@ -164,13 +170,13 @@ Version control is useful so we avoid:
 Git has many commands - most of the time we will only need to use `git add`, `git commit`, `git push`, and `git pull`.
 Also, we will primarily use git by the built in interfaces with GitHub and RStudio.
 
-If you Google for help with git and come across command line instructions, skip it and move on to the next resources unless you feel comfortable trying that method.
+If you Google for help with Git and come across command line instructions, skip it and move on to the next resources unless you feel comfortable trying that method.
 
-A great indepth resource for working with git and R (linked on the course site at [Additional Resources/GitHub](https://sta518.github.io/resources/github/)) is [Happy Git with R](https://happygitwithr.com/) - this would be a good place to start looking for help.
+A great indepth resource for working with Git and R (linked on the course site at [Additional Resources/GitHub](https://sta518.github.io/resources/github/)) is [Happy Git with R](https://happygitwithr.com/) - this would be a good place to start looking for help.
 
 ### GitHub
 
-If git/version control is like "Version history" in Google Docs, GitHub is like Google Drive - git and GitHub being much more rich in features and capabilities.
+If Git/version control is like "Version history" in Google Docs, GitHub is like Google Drive - Git and GitHub being more rich in features and capabilities.
 
 In this section, we will explore some of the basic GitHub capabilities: repos, commits, diffs, commit history, branching, and merging
 
@@ -242,7 +248,7 @@ To resolve them, you (the repo owner) just needs to decide which is the correct 
 As a team, discuss your responses to these questions.
 
 > What is version control and why do we care?
-> What is git vs GitHub and do I need to care?
+> What is Git vs GitHub and do I need to care?
 > What is still muddy?
 
 ## Up Next
@@ -256,15 +262,15 @@ There are many [Additional Resources](https://sta518.github.io/resources/markdow
 
 ## Optional
 
-You are encouraged to use RStudio Cloud in this course because git and GitHub integration works *out of the box*, but I understand that many of you might want to experience these tools "in the wild" - on your own machine.
-I consider myself proficient at dealing with issues installing R and RStudio on Windows and able to Google issues for R and RStudio on Mac/Linux and git.
+You are encouraged to use RStudio Cloud in this course because Git and GitHub integration works *out of the box*, but I understand that many of you might want to experience these tools "in the wild" - on your own machine.
+I consider myself proficient at dealing with issues installing R and RStudio on Windows and able to Google issues for R and RStudio on Mac/Linux and Git.
 
 If you wish to work on your own machine, you will need to:
 
 1. Install R and RStudio
     - [R](https://cloud.r-project.org)
     - [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-2. [Install](http://happygitwithr.com/install-git.html) and [introduce yourself](https://happygitwithr.com/hello-git.html) to  git
+2. [Install](http://happygitwithr.com/install-git.html) and [introduce yourself](https://happygitwithr.com/hello-git.html) to  Git
     - You will need to work with the command line during this
 3. If you ever want to create PDFs instead of HTML documents, you will need LaTeX
     - Yihui has an R solution for that: [TinyTeX](https://yihui.name/tinytex/)

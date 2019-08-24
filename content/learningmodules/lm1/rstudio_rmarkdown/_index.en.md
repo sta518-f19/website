@@ -1,6 +1,5 @@
 ---
 title: RStudio and RMarkdown
-chapter: true
 weight: 10
 pre: "<b>1.2. </b>"
 ---
@@ -35,6 +34,7 @@ In class we will apply these workflow strategies to an R markdown analysis that 
   - [Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html),
   - [Workflow: scripts](https://r4ds.had.co.nz/workflow-scripts.html), and
   - [Workflow: projects](https://r4ds.had.co.nz/workflow-projects.html)
+4. Watch this video (from Garrett Grolemund) that details [R Markdown](https://vimeo.com/178485416)
 
 As you read through the chapters, practice the R code within an [RStudio Cloud Project](https://rstudio.cloud/learn/guide#projects) and work on the exercises at the end of each chapter.
 The R community is extremely (and at times too) helpful so many of these exercises have [solutions](https://jrnold.github.io/r4ds-exercise-solutions/) available.

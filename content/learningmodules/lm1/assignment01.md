@@ -1,6 +1,5 @@
 ---
 title: Assignment 1
-chapter: true
 weight: 20
 pre: "<i class='fas fa-star'></i> &nbsp;"
 ---

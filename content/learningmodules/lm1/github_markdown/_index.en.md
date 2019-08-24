@@ -1,6 +1,5 @@
 ---
 title: GitHub and Markdown
-chapter: true
 weight: 5
 pre: "<b>1.1. </b>"
 ---

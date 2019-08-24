@@ -1,5 +1,4 @@
 ---
-disableToc: true
 title: Course Information
 weight: 5
 ---

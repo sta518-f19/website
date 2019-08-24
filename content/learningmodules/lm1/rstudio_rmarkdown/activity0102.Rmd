@@ -7,6 +7,7 @@ output:
     variant: markdown_github
 ---
 
+<!--
 ```{r include=FALSE}
 library(tidyverse)
 library(datasauRus)
@@ -338,5 +339,5 @@ Note that these values get saved in the YAML (another way that you can make thes
 - Play around with these until you're happy with the look.
 
 **You are done!**
-*Commit all remaining changes, use the commit message, "Done with Activity 1.2! `r emo::ji("sunglasses")`", and push.*
-*Double check that all of your documents are updated on your GitHub repo.*
+*Commit all remaining changes, use the commit message, "Done with Activity 1.2! 
+-->

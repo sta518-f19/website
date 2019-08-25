@@ -2,15 +2,16 @@
 title: Activity 1.2
 pre: "<i class='fas fa-tools'></i> &nbsp;"
 weight: 5
-output:
-  md_document:
-    variant: markdown_github
+output: blogdown::html_page
 ---
 
-<!--
 ```{r include=FALSE}
 library(tidyverse)
 library(datasauRus)
+ 
+# For YAML 
+#  md_document:
+#    variant: markdown_github
 ```
 
 # RStudio and R Markdown
@@ -339,5 +340,6 @@ Note that these values get saved in the YAML (another way that you can make thes
 - Play around with these until you're happy with the look.
 
 **You are done!**
-*Commit all remaining changes, use the commit message, "Done with Activity 1.2! 
--->
+*Commit all remaining changes, use the commit message, "Done with Activity 1.2! `r emo::ji("sunglasses")`" *
+
+Double check that your GitHub repo has been updated.

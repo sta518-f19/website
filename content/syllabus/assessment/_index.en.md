@@ -112,9 +112,9 @@ Each project will specify which criterion are being assessed and you will earn a
 For each of these larger tasks you will earn an overall mark of either **Excellent** (E), **Satisfactory** (S), or **Progressing** (P).
 These are generally earned as follows, but specific guidelines will be provided for each Midterm Project:
 
-- **E**:  Each criterion earned an Excellent or a Satisfactory grade, including at least 50% of criteria earning Excellent.
-- **S**: Each criterion earned an Excellent or a Satisfactory grade, including at least 25% of criteria earning Excellent.
-- **P**: Earned at least one Progressing or Incomplete on a criterion.
+- **E**: Each criterion earned an Excellent or a Satisfactory grade, including at least three (3) criteria earning Excellent.
+- **S**: Each criterion earned an Excellent or a Satisfactory grade, including at least one (1) criteria earning Excellent.
+- **P**: Each criterion earned a Satisfactory grade or at least one Progressing or Incomplete on a criterion.
 
 #### How your course grade is determined
 

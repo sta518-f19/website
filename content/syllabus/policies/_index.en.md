@@ -24,7 +24,7 @@ I expect that you will do the following:
 - Be committed to a [Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ).
 
 My primary responsibility is to create a place where it is safe to take risks and make mistakes, without judgement, and provide you with feedback and guidance as you grow in your understanding of the subject.
-Therefore, as my sutdents, you have the right to expect from me:
+Therefore, as my students, you have the right to expect from me:
 
 - Thoughtfully designed learning activities in and out of class.
 - Informative, timely feedback on all graded work.  I strive to return all graded work by the next time that I see you after you turned it in.
